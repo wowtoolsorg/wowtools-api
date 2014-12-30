@@ -1,0 +1,11 @@
+Windows PowerShell
+版权所有 (C) 2009 Microsoft Corporation。保留所有权利。
+
+C:\Users\Administrator\Documents\GitHub> git config --global http.proxy 192.168.
+35.26:808
+C:\Users\Administrator\Documents\GitHub> git clone https://github.com/wowtoolsor
+g/wowtools-api.git
+Cloning into 'wowtools-api'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+C:\Users\Administrator\Documents\GitHub>
